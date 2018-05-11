@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int cnt(unsigned int x){
 	int c; 
 	for (c = 0; x; c++){
